@@ -1,0 +1,13 @@
+barcode,name,lot,expiry,qty,unit_price,supplier
+8690000000142,Loratadin 10mg 20 tb,L10,2027-12-31,15,49.90,Alliance
+8690000000142,Loratadin 10mg 20 tb,L11,2026-13-45,5,49.90,Alliance
+8690000000143,Wrong Check Digit,X1,2027-01-01,5,10.00,Alliance
+8690000000142,Loratadin 10mg 20 tb,L12,2027-12-31,-4,49.90,Alliance
+8690000000142,Loratadin 10mg 20 tb,L13,2027-12-31,5,abc,Alliance
+8690000000142,Loratadin 10mg 20 tb,L14,2027-12-31,1_000,49.90,Alliance
+8690000000142,Loratadin 10mg 20 tb,L15,2027-12-31,5,NaN,Alliance
+
+8690000000142,,L16,2027-12-31,5,49.90,Alliance
+8690000000142,Loratadin 10mg 20 tb,L10,2027-12-31,15,49.90,Alliance
+86900000001,Short Barcode,S1,2027-12-31,5,10.00,Alliance
+8690000000128,=HYPERLINK("http://evil.example"),G99,2027-12-31,5,155.00,Hedef Ecza
