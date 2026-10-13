@@ -21,8 +21,8 @@ On macOS and Linux type `python3` instead of `python` in the commands below.
 ## Quick start
 
 ```
-git clone <repo-url>
-cd expiryguard
+git clone https://github.com/ibrhmozel3/ExpiryGuard.git
+cd ExpiryGuard
 python cli.py demo        # creates a fictional pharmacy in data/
 python cli.py check       # daily expiry check
 ```
